@@ -2,9 +2,10 @@
 title: "VSCodium"
 summary: "Free/Libre Open Source Software Binaries of VS Code"
 date: 2024-12-12T19:18:00Z
-image: "/images/image-placeholder.png"
 categories: ["Development"]
-authors: ["The VSCodium contributors"]
+showAuthor: true
+authors:
+- "The VSCodium contributors"
 tags: ["Official"]
 draft: false
 ---
@@ -13,7 +14,7 @@ Free/Libre Open Source Software Binaries of VS Code
 
 License: MIT
 
-Web page: <https://vscodium.com/>
+Web page: <https://vscodium.com/>  
 Source code: <https://github.com/VSCodium/vscodium>
 
 Report the bug: <https://github.com/VSCodium/vscodium/issues/new>  

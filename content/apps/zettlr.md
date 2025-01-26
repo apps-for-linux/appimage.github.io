@@ -1,10 +1,11 @@
 ---
 title: "Zettlr"
 summary: "Your One-Stop Publication Workbench"
-date: 2024-04-20T15:10:00Z
-image: "/images/image-placeholder.png"
+date: 2024-12-24T12:08:00Z
 categories: ["Productivity"]
-authors: ["Hendrik Erz"]
+showAuthor: true
+authors:
+- "Hendrik Erz"
 tags: ["Official"]
 draft: false
 ---
@@ -19,5 +20,5 @@ Source code: <https://github.com/Zettlr/Zettlr>
 Become a sponsor: <https://github.com/sponsors/nathanlesage>  
 Translate: <https://github.com/Zettlr/Zettlr?tab=readme-ov-file#translating>  
 Report the bug: <https://github.com/Zettlr/Zettlr/issues/new>  
-Download:   x86_64: <https://github.com/Zettlr/Zettlr/releases/download/v3.3.1/Zettlr-3.3.1-x86_64.AppImage>
-            arm64: <https://github.com/Zettlr/Zettlr/releases/download/v3.3.1/Zettlr-3.3.1-arm64.AppImage>
+Download:   x86_64: <https://github.com/Zettlr/Zettlr/releases/download/v3.4.1/Zettlr-3.4.1-x86_64.AppImage>  
+            arm64: <https://github.com/Zettlr/Zettlr/releases/download/v3.4.1/Zettlr-3.4.1-arm64.AppImage>

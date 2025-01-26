@@ -1,10 +1,11 @@
 ---
 title: "vifm"
-summary: "Vifm is a file manager with curses interface, which provides Vim-like environment for managing objects within file systems, extended with some useful ideas from mutt"
-date: 2024-04-04T19:30:00Z
-image: "/images/image-placeholder.png"
+summary: "File manager with curses interface"
+date: 2025-01-19T19:33:00Z
 categories: ["System"]
-authors: ["vifm Authors"]
+showAuthor: true
+authors:
+- "vifm Authors"
 tags: ["Official"]
 draft: false
 ---
@@ -18,4 +19,4 @@ Source code: <https://github.com/vifm/vifm>
 
 Become a sponsor: <https://github.com/sponsors/vifm>  
 Report the bug: <https://github.com/vifm/vifm/issues/new>  
-Download: <https://github.com/vifm/vifm/releases/download/v0.13/vifm-v0.13-x86_64.AppImage>
+Download: <https://github.com/vifm/vifm/releases/download/v0.14-beta/vifm-v0.14-beta-x86_64.AppImage>

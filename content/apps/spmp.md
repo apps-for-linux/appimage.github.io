@@ -2,9 +2,10 @@
 title: "spmp"
 summary: "A YouTube Music client with a focus on customisation of colours and song metadata."
 date: 2024-10-06T15:09:00Z
-image: "/images/image-placeholder.png"
 categories: ["Audio & Video"]
-authors: ["Talo Halton"]
+showAuthor: true
+authors:
+- "Talo Halton"
 tags: ["Official"]
 draft: false
 ---
@@ -13,7 +14,7 @@ A YouTube Music client with a focus on customisation of colours and song metadat
 
 License: GPL-3.0
 
-Web page: <https://spmp.toastbits.dev>
+Web page: <https://spmp.toastbits.dev>  
 Source code: <https://github.com/toasterofbread/spmp>
 
 Become a sponsor: <https://github.com/toasterofbread>  
