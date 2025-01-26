@@ -1,7 +1,7 @@
 ---
 title: "Apache NetBeans"
 summary: "Apache NetBeans is an open source development environment, tooling platform, and application framework."
-date: 2024-09-19T21:03:00Z
+date: 2024-12-11T20:46:00Z
 categories: ["Development"]
 showAuthor: true
 authors:
@@ -19,4 +19,4 @@ Source code: <https://github.com/codelerity/netbeans-installers>
 
 Become a sponsor: <https://github.com/sponsors/neilcsmith-net>
 Report the bug: <https://github.com/codelerity/netbeans-installers/issues/new>
-Download: <https://github.com/codelerity/netbeans-installers/releases/download/v23-build1/Apache_NetBeans-23-x86_64.AppImage>
+Download: <https://github.com/codelerity/netbeans-installers/releases/download/v24-build1/Apache_NetBeans-24-x86_64.AppImage>

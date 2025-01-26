@@ -1,7 +1,7 @@
 ---
 title: "SimpleX Chat"
 summary: "First messaging platform that has no user identifiers of any kind"
-date: 2024-12-13T00:42:00Z
+date: 2025-01-13T04:18:00Z
 categories: ["Network"]
 showAuthor: true
 authors:
@@ -20,4 +20,4 @@ Source code: <https://github.com/simplex-chat/simplex-chat>
 Become a sponsor: <https://github.com/sponsors/simplex-chat>  
 Translate: <https://hosted.weblate.org/engage/simplex-chat>  
 Report the bug: <https://github.com/simplex-chat/simplex-chat/issues/new>  
-Download: <https://github.com/simplex-chat/simplex-chat/releases/download/v6.2.1/simplex-desktop-x86_64.AppImage>
+Download: <https://github.com/simplex-chat/simplex-chat/releases/download/v6.2.4/simplex-desktop-x86_64.AppImage>

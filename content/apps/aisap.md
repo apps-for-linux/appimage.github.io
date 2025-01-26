@@ -1,7 +1,7 @@
 ---
 title: "aisap"
 summary: "Tool to make sandboxing AppImages easy"
-date: 2024-11-20T11:02:00Z
+date: 2024-12-03T02:26:00Z
 categories: ["Development"]
 showAuthor: true
 authors:
