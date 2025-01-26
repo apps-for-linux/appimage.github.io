@@ -1,10 +1,11 @@
 ---
 title: "Czkawka"
 summary: "Multi functional app to find duplicates, empty folders, similar images etc."
-date: 2023-10-11T10:26:00Z
-image: "/images/image-placeholder.png"
+date: 2024-10-11T10:26:00Z
 categories: ["System"]
-authors: ["Rafał Mikrut"]
+showAuthor: true
+authors:
+- "Rafał Mikrut"
 tags: ["Official"]
 draft: false
 ---

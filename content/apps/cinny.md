@@ -1,10 +1,11 @@
 ---
 title: "Cinny"
 summary: "Matrix client focusing primarly on simple, elegant and secure interface"
-date: 2023-12-04T12:39:00Z
-image: "/images/image-placeholder.png"
+date: 2024-11-12T12:51:00Z
 categories: ["Network"]
-authors: ["Ajay Bura"]
+showAuthor: true
+authors:
+- "Ajay Bura"
 tags: ["Official"]
 draft: false
 ---
