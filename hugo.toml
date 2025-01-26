@@ -43,8 +43,8 @@ enableEmoji = true
   toLower = false
 
     [[related.indices]]
-        name = "tags"
-        weight = 100
+        name = "date"
+        weight = 10
 
     [[related.indices]]
         name = "categories"
@@ -52,10 +52,10 @@ enableEmoji = true
     
     [[related.indices]]
         name = "authors"
-        weight = 20
+        weight = 100
 
     [[related.indices]]
-        name = "date"
+        name = "tags"
         weight = 10
 
     [[related.indices]]
