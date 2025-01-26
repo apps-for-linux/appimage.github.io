@@ -2,9 +2,10 @@
 title: "Legcord"
 summary: "Legcord is a custom client designed to enhance your Discord experience while keeping everything lightweight"
 date: 2024-11-26T23:31:00Z
-image: "/images/image-placeholder.png"
 categories: ["Network"]
-authors: ["Legcord"]
+showAuthor: true
+authors:
+- "Legcord"
 tags: ["Official"]
 draft: false
 ---
@@ -13,7 +14,7 @@ Legcord is a custom client designed to enhance your Discord experience while kee
 
 License: OSL-3.0
 
-Web page: <https://legcord.app>
+Web page: <https://legcord.app>  
 Source code: <https://github.com/Legcord/Legcord>
 
 Become a sponsor: <https://github.com/sponsors/smartfrigde>  

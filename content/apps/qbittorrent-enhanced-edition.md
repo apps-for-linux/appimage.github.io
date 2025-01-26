@@ -2,10 +2,11 @@
 title: "qBittorrent-Enhanced-Edition"
 summary: "qBittorrent is a bittorrent client programmed in C++ / Qt"
 date: 2024-11-18T20:46:00Z
-image: "/images/image-placeholder.png"
 categories: ["Network"]
-authors: [sledgehammer999]
-tags: ["Official"]
+showAuthor: true
+authors: 
+- c0re100
+tags: ["Community"]
 draft: false
 ---
 

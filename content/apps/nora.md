@@ -2,9 +2,10 @@
 title: "Nora"
 summary: "An elegant music player built using Electron and React"
 date: 2024-05-10T21:09:00Z
-image: "/images/image-placeholder.png"
 categories: ["Audio & Video"]
-authors: ["Sandakan Nipunajith"]
+showAuthor: true
+authors:
+- "Sandakan Nipunajith"
 tags: ["Official"]
 draft: false
 ---
@@ -13,7 +14,7 @@ An elegant music player built using Electron and React
 
 License: MIT
 
-Web page: <https://noramusic.netlify.app>
+Web page: <https://noramusic.netlify.app>  
 Source code: <https://github.com/Sandakan/Nora>
 
 Translate: <https://crowdin.com/project/nora>  
