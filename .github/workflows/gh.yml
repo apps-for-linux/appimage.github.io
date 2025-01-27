@@ -34,7 +34,7 @@ jobs:
       - name: Hugo setup
         uses: peaceiris/actions-hugo@v2.6.0
         with: 
-          hugo-version: 0.140.2
+          hugo-version: 0.142.0
           extended: true
         env:
           ACTIONS_ALLOW_UNSECURE_COMMANDS: 'true'
@@ -47,17 +47,21 @@ jobs:
 
       - name: Setup Pages
         id: pages
-        uses: actions/configure-pages@v2
+        uses: actions/configure-pages@v5
 
       - name: Build with Hugo
         env:
           # For maximum backward compatibility with Hugo modules
           HUGO_ENVIRONMENT: production
           HUGO_ENV: production
+          TZ: Europe/Moscow
         run: |
-          hugo --minify -d ./public --baseURL https://apps-for-linux.github.io/
+          hugo \
+          --minify \
+          -d ./public \
+          --baseURL https://apps-for-linux.github.io/
       - name: Upload artifact
-        uses: actions/upload-pages-artifact@v1
+        uses: actions/upload-pages-artifact@v3
         with:
           path: ./public
 
@@ -71,4 +75,4 @@ jobs:
     steps:
       - name: Deploy to GitHub Pages
         id: deployment
-        uses: actions/deploy-pages@v1
+        uses: actions/deploy-pages@v4
