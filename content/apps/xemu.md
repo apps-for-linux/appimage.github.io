@@ -1,7 +1,7 @@
 ---
 title: "xemu"
 summary: "Free and open-source original Xbox game console emulation"
-date: 2025-01-08T07:57:00Z
+date: 2025-01-27T05:02:00Z
 categories: ["Games"]
 authors:
 - "xemu Project"
@@ -18,4 +18,5 @@ Source code: <https://github.com/xemu-project/xemu>
 
 Become a sponsor: <https://www.patreon.com/mborgerson>  
 Report the bug: <https://github.com/xemu-project/xemu/issues/new>  
-Download: <https://github.com/xemu-project/xemu/releases/download/v0.8.7/xemu-v0.8.7-x86_64.AppImage>
+Download: <https://github.com/xemu-project/xemu/releases/download/v0.8.15/xemu-v0.8.15-x86_64.AppImage>  
+debug: <https://github.com/xemu-project/xemu/releases/download/v0.8.15/xemu-v0.8.15-dbg-x86_64.AppImage>

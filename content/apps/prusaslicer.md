@@ -1,12 +1,12 @@
 ---
 title: "PrusaSlicer"
 summary: "PrusaSlicer takes 3D models (STL, OBJ, AMF) and converts them into G-code instructions for FFF printers or PNG layers for mSLA 3D printers"
-date: 2024-09-18T17:36:00Z
+date: 2025-01-11T10:34:00Z
 categories: ["Graphics"]
 showAuthor: true
 authors:
-- "Prusa3D"
-tags: ["Official"]
+- "Simon Peter"
+tags: ["Community"]
 draft: false
 ---
 
@@ -19,4 +19,4 @@ Source code: <https://github.com/prusa3d/PrusaSlicer>
 
 Translate: <https://github.com/prusa3d/PrusaSlicer/blob/master/doc/Localization_guide.md>  
 Report the bug: <https://github.com/prusa3d/PrusaSlicer/issues/new>  
-Download: <https://github.com/prusa3d/PrusaSlicer/releases/download/version_2.8.1/PrusaSlicer-2.8.1+linux-x64-newer-distros-GTK3-202409181416.AppImage>
+Download: <https://github.com/probonopd/PrusaSlicer/releases/download/continuous/PrusaSlicer-2.9.0-rc1-x86_64.AppImage>

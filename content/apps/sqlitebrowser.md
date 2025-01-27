@@ -20,7 +20,8 @@ Source code: <https://github.com/sqlitebrowser/sqlitebrowser>
 Become a sponsor: <https://patreon.com/db4s>  
 Translate: <https://github.com/sqlitebrowser/sqlitebrowser/wiki/Translations>  
 Report the bug: <https://github.com/sqlitebrowser/sqlitebrowser/issues/new>  
-Download:   SQLCipher x86_64: <https://github.com/sqlitebrowser/sqlitebrowser/releases/download/continuous/DB.Browser.for.SQLCipher-dev-4c432a0-x86.64.AppImage>
-            SQLite x86_64: <https://github.com/sqlitebrowser/sqlitebrowser/releases/download/continuous/DB.Browser.for.SQLite-dev-4c432a0-x86.64.AppImage>
-            SQLCipher arm64 <https://github.com/sqlitebrowser/sqlitebrowser/releases/download/continuous/DB.Browser.for.SQLCipher-dev-4c432a0-aarch64.AppImage>
-            SQLite arm64 <https://github.com/sqlitebrowser/sqlitebrowser/releases/download/continuous/DB.Browser.for.SQLite-dev-4c432a0-aarch64.AppImage>
+Download:  
+SQLCipher x86_64: <https://github.com/sqlitebrowser/sqlitebrowser/releases/download/continuous/DB.Browser.for.SQLCipher-dev-4c432a0-x86.64.AppImage>  
+SQLCipher arm64 <https://github.com/sqlitebrowser/sqlitebrowser/releases/download/continuous/DB.Browser.for.SQLCipher-dev-4c432a0-aarch64.AppImage>  
+SQLite x86_64: <https://github.com/sqlitebrowser/sqlitebrowser/releases/download/continuous/DB.Browser.for.SQLite-dev-4c432a0-x86.64.AppImage>  
+SQLite arm64 <https://github.com/sqlitebrowser/sqlitebrowser/releases/download/continuous/DB.Browser.for.SQLite-dev-4c432a0-aarch64.AppImage>

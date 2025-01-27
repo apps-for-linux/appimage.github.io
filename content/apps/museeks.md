@@ -1,7 +1,7 @@
 ---
 title: "museeks"
 summary: "A simple, clean and cross-platform music player"
-date: 2022-09-22T19:10:00Z
+date: 2025-01-20T18:41:00Z
 categories: ["Audio & Video"]
 showAuthor: true
 authors:
@@ -18,4 +18,4 @@ Web page: <https://museeks.io>
 Source code: <https://github.com/martpie/museeks>
 
 Report the bug: <https://github.com/martpie/museeks/issues/new>  
-Download: <https://github.com/martpie/museeks/releases/download/0.20.4/Museeks_0.20.4_amd64.AppImage>
+Download: <https://github.com/martpie/museeks/releases/download/0.20.6/Museeks_0.20.6_amd64.AppImage>

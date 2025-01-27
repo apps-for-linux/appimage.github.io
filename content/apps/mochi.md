@@ -1,7 +1,7 @@
 ---
 title: "Mochi"
 summary: "Take notes and make flashcards using markdown, then study them using spaced repetition."
-date: 2024-11-29T00:00:00Z
+date: 2024-01-23T00:00:00Z
 categories: ["Productivity"]
 showAuthor: true
 authors:
@@ -16,4 +16,4 @@ License: EULA
 
 Web page: <https://mochi.cards>  
 
-Download: <https://mochi.cards/releases/Mochi-1.18.0.AppImage>
+Download: <https://mochi.cards/releases/Mochi-1.18.7.AppImage>

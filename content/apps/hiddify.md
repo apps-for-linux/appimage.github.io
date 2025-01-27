@@ -17,7 +17,7 @@ License: Hiddify Extended GNU General Public License v3
 Web page: <https://hiddify.com/>  
 Source code: <https://github.com/hiddify/hiddify-app>
 
-Become a sponsor: <https://github.com/hiddify/Hiddify-Manager/wiki/support>  
+Become a sponsor: <https://hiddify.com/donation-and-support/>  
 Translate: <https://inlang.com/editor/github.com/hiddify/hiddify-next>  
 Report the bug: <https://github.com/hiddify/hiddify-app/issues>  
-Download: <https://github.com/hiddify/hiddify-next/releases/latest/download/Hiddify-Linux-x64.AppImage>
+Download: <https://github.com/hiddify/hiddify-app/releases/latest/download/Hiddify-Linux-x64.AppImage>

@@ -14,9 +14,9 @@ Apache NetBeans is an open source development environment, tooling platform, and
 
 License: Apache-2.0
 
-Web page: <https://www.libreoffice.org>
+Web page: <https://netbeans.apache.org/front/main/index.html>  
 Source code: <https://github.com/codelerity/netbeans-installers>
 
-Become a sponsor: <https://github.com/sponsors/neilcsmith-net>
-Report the bug: <https://github.com/codelerity/netbeans-installers/issues/new>
+Become a sponsor: <https://github.com/sponsors/neilcsmith-net>  
+Report the bug: <https://github.com/codelerity/netbeans-installers/issues/new>  
 Download: <https://github.com/codelerity/netbeans-installers/releases/download/v24-build1/Apache_NetBeans-24-x86_64.AppImage>

@@ -1,7 +1,7 @@
 ---
 title: "Rare"
 summary: "Frontend for legendary, the open source Epic Games Launcher alternative"
-date: 2024-10-12T21:04:00Z
+date: 2025-01-11T22:37:00Z
 categories: ["Games"]
 authors:
 - "Rare Devs"
@@ -18,4 +18,4 @@ Source code: <https://github.com/RareDevs/Rare>
 
 Translate: <https://www.transifex.com/rare-1/rare>  
 Report the bug: <https://github.com/RareDevs/Rare/issues/new>  
-Download: <https://github.com/RareDevs/Rare/releases/download/1.10.11.445/Rare-1.10.11.445.AppImage>
+Download: <https://github.com/RareDevs/Rare/releases/download/1.11.3/Rare-1.11.3.0.AppImage>

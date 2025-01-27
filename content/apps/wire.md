@@ -1,7 +1,7 @@
 ---
 title: "Wire"
 summary: "Wire is the most secure platform for messaging, audio, and video calls, based on edge computing and zero knowledge architecture."
-date: 2025-01-06T19:47:00Z
+date: 2025-01-20T13:50:00Z
 categories: ["Network"]
 showAuthor: true
 authors:
@@ -19,4 +19,4 @@ Source code: <https://github.com/wireapp/wire-desktop>
 
 Translate: <https://crowdin.com/projects/wire>  
 Report the bug: <https://github.com/wireapp/wire-desktop/issues/new>  
-Download: <https://github.com/wireapp/wire-desktop/releases/download/linux%2F3.38.3638/Wire-3.38.3638_x86_64.AppImage>
+Download: <https://github.com/wireapp/wire-desktop/releases/download/linux%2F3.39.3653/Wire-3.39.3653_x86_64.AppImage>

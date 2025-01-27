@@ -1,7 +1,7 @@
 ---
 title: "Bambu Studio"
 summary: "Bambu Studio is an open-source, cutting-edge, feature-rich slicing software"
-date: 2024-11-15T16:23:00Z
+date: 2025-01-09T16:54:00Z
 categories: ["Graphics"]
 showAuthor: true
 authors:
@@ -18,4 +18,4 @@ Web page: <https://bambulab.com/en/download/studio>
 Source code: <https://github.com/bambulab/BambuStudio>
 
 Report the bug: <https://github.com/bambulab/BambuStudio/issues/new>  
-Download: <https://github.com/bambulab/BambuStudio/releases/download/v01.10.01.50/Bambu_Studio_linux_ubuntu_24.04_v01.10.01.50.AppImage>
+Download: <https://github.com/bambulab/BambuStudio/releases/download/v01.10.02.64/Bambu_Studio_linux_fedora-v01.10.02.64.AppImage>

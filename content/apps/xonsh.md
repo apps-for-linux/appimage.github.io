@@ -19,4 +19,4 @@ Source code: <https://github.com/xonsh/xonsh>
 
 Become a sponsor: <https://github.com/sponsors/xonsh>  
 Report the bug: <https://github.com/xonsh/xonsh/issues/new>  
-Download: <https://github.com/xonsh/xonsh/releases/download/0.19.0/xonsh-x86_64.AppImage>
+Download: <https://github.com/xonsh/xonsh/releases/download/0.19.1/xonsh-x86_64.AppImage>

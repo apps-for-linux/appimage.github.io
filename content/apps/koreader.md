@@ -1,6 +1,6 @@
 ---
 title: "KOReader"
-summary: "An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cervantes, Kindle, Kobo, PocketBook and Android devices"
+summary: "An ebook reader application"
 date: 2024-11-20T22:52:00Z
 categories: ["Productivity"]
 showAuthor: true

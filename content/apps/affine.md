@@ -17,7 +17,7 @@ License: MIT
 Web page: <https://affine.pro>  
 Source code: <https://github.com/toeverything/AFFiNE>  
 
-Become a sponsor: <https://github.com/sponsors/toeverything>
+Become a sponsor: <https://github.com/sponsors/toeverything>  
 Translate: <https://crowdin.com/project/affine>  
 Report the bug: <https://github.com/toeverything/AFFiNE/issues>  
 Download: <https://github.com/toeverything/AFFiNE/releases/download/v0.19.6/affine-0.19.6-stable-linux-x64.appimage>

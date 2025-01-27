@@ -1,7 +1,7 @@
 ---
 title: "Helix"
 summary: "A post-modern modal text editor."
-date: 2024-07-14T19:53:00Z
+date: 2025-01-20T12:31:00Z
 categories: ["Development"]
 showAuthor: true
 authors:
@@ -19,4 +19,4 @@ Source code: <https://github.com/helix-editor/helix>
 
 Become a sponsor: <https://opencollective.com/helix-editor>  
 Report the bug: <https://github.com/helix-editor/helix/issues/new>  
-Download: <https://github.com/helix-editor/helix/releases/download/24.07/helix-24.07-x86_64.AppImage>
+Download: <https://github.com/helix-editor/helix/releases/download/25.01.1/helix-25.01.1-x86_64.AppImage>

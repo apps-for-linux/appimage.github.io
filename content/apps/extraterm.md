@@ -1,7 +1,7 @@
 ---
 title: "Extraterm"
 summary: "The swiss army chainsaw of terminal emulators."
-date: 2024-09-04T23:12:00Z
+date: 2025-01-25T12:35:00Z
 categories: ["System"]
 showAuthor: true
 authors:
@@ -18,4 +18,4 @@ Web page: <https://extraterm.org>
 Source code: <https://github.com/sedwards2009/extraterm>
 
 Report the bug: <https://github.com/sedwards2009/extraterm/issues/new>  
-Download: <https://github.com/sedwards2009/extraterm/releases/download/v0.80.0/ExtratermQt-0.80.0.glibc2.34-x86_64.AppImage>
+Download: <https://github.com/sedwards2009/extraterm/releases/download/v0.81.0/ExtratermQt-0.81.0.glibc2.34-x86_64.AppImage>

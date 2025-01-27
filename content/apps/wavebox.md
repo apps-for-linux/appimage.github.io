@@ -1,7 +1,7 @@
 ---
 title: "Wavebox"
-summary: "Wavebox, the revolutionary and feature-rich Chromium browser that's built for productive working across Google Workspaces, Microsoft Teams, ClickUp, and every other web app you use to get work done."
-date: 2024-12-12T11:08:00Z
+summary: "Connect all the apps and websites you need to run your business and stay signed-in to every account"
+date: 2024-01-23T12:48:00Z
 categories: ["Network"]
 showAuthor: true
 authors:
@@ -18,4 +18,4 @@ Web page: <https://wavebox.io>
 Source code: <https://github.com/wavebox/waveboxapp>
 
 Report the bug: <https://github.com/wavebox/issues/new>  
-Download: <https://download.wavebox.app/stable/linux/appimage/Wavebox_10.131.17-2_x86_64.AppImage>
+Download: <https://download.wavebox.app/stable/linux/appimage/Wavebox_10.132.2-2_x86_64.AppImage>

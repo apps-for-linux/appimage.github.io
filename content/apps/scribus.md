@@ -1,7 +1,7 @@
 ---
 title: "Scribus"
-summary: "Go-to libre desltop publishing application"
-date: 2024-06-15T19:37:00Z
+summary: "Powerful desktop publishing software"
+date: 2025-01-09T01:57:00Z
 categories: ["Productivity"]
 showAuthor: true
 authors:
@@ -10,7 +10,7 @@ tags: ["Official"]
 draft: false
 ---
 
-Go-to libre desltop publishing application
+Powerful desktop publishing software
 
 License: GPL-2.0
 
@@ -19,4 +19,4 @@ Source code: <https://github.com/scribusproject/scribus>
 
 Translate: <https://explore.transifex.com/scribus/scribus>  
 Report the bug: <http://bugs.scribus.net>  
-Download: <https://sourceforge.net/projects/scribus/files/scribus/1.6.2/scribus-1.6.2-linux-x86_64.AppImage>
+Download: <https://sourceforge.net/projects/scribus/files/scribus/1.6.3/scribus-1.6.3-linux-x86_64.AppImage/>

@@ -6,7 +6,7 @@ categories: ["Graphics"]
 showAuthor: true
 authors:
 - "Roman Chugunov"
-tags: ["Official"]
+tags: ["Community"]
 draft: false
 ---
 

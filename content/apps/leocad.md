@@ -1,7 +1,7 @@
 ---
 title: "LeoCAD"
 summary: "A CAD application for creating virtual LEGO models"
-date: 2025-01-15T15:59:00Z
+date: 2025-01-21T03:49:00Z
 categories: ["Graphics"]
 showAuthor: true
 authors:
@@ -18,4 +18,4 @@ Web page: <https://www.leocad.org>
 Source code: <https://github.com/leozide/leocad>  
 
 Report the bug: <https://github.com/leozide/leocad/issues/new>  
-Download: <https://github.com/leozide/leocad/releases/download/continuous/LeoCAD-Linux-f2a2e446-x86_64.AppImage>
+Download: <https://github.com/leozide/leocad/releases/download/continuous/LeoCAD-Linux-d31b9d9b-x86_64.AppImage>

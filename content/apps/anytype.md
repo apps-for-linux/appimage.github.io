@@ -1,6 +1,6 @@
 ---
 title: "Anytype"
-summary: "Anytype is a personal knowledge base, a digital brain that allows you to quickly capture, describe, and connect information"
+summary: "Anytype is a personal knowledge base"
 date: 2025-01-22T23:27:00Z
 categories: ["Productivity"]
 showAuthor: true

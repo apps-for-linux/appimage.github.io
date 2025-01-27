@@ -1,7 +1,7 @@
 ---
 title: "Wora"
 summary: " A beautiful player for audiophiles."
-date: 2024-08-30T21:34:00Z
+date: 2025-01-25T13:58:00Z
 categories: ["Audio & Video"]
 showAuthor: true
 authors:
@@ -18,4 +18,4 @@ Source code: <https://github.com/hiaaryan/wora>
 
 Become a sponsor: <https://github.com/hiaaryan>  
 Report the bug: <https://github.com/hiaaryan/wora/issues/new>  
-Download: <https://github.com/hiaaryan/wora/releases/download/v0.3.6/Wora.v0.3.6.AppImage>
+Download: <https://github.com/hiaaryan/wora/releases/download/v0.4.0-beta1/Wora.v0.4.0-beta1.AppImage>

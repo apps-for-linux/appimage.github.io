@@ -1,7 +1,7 @@
 ---
 title: "RSS Guard"
 summary: "Simple RSS/ATOM feed reader"
-date: 2024-09-26T11:27:00Z
+date: 2024-12-20T09:58:00Z
 categories: ["Network"]
 showAuthor: true
 authors:
@@ -20,4 +20,5 @@ Source code: <https://github.com/martinrotter/rssguard>
 Become a sponsor: <https://github.com/sponsors/martinrotter>  
 Translate: <https://crowdin.com/project/rssguard>  
 Report the bug: <https://github.com/martinrotter/rssguard/issues/new>  
-Download: <https://github.com/martinrotter/rssguard/releases/download/4.7.4/rssguard-4.7.4-68c322710-lite-linux64.AppImage>
+Download: <https://github.com/martinrotter/rssguard/releases/download/4.8.1/rssguard-4.8.1-3dde4064f-linux64.AppImage>  
+lite version <https://github.com/martinrotter/rssguard/releases/download/4.8.1/rssguard-4.8.1-3dde4064f-lite-linux64.AppImage>

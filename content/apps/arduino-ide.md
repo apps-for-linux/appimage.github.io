@@ -14,7 +14,7 @@ The open-source Arduino Software (IDE) makes it easy to write code and upload it
 
 License: AGPL-3.0
 
-Web page: <https://www.arduino.cc/en/software>
+Web page: <https://www.arduino.cc/en/software>  
 Source code: <https://github.com/arduino/arduino-ide>
 
 Become a sponsor: <https://www.arduino.cc/en/donate>  

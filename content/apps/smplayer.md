@@ -1,7 +1,7 @@
 ---
 title: "SMPlayer"
 summary: "Free Media Player with built-in codecs"
-date: 2024-11-05T04:04:00Z
+date: 2025-01-03T16:25:00Z
 categories: ["Audio & Video"]
 showAuthor: true
 authors:
@@ -20,4 +20,4 @@ Source code: <https://github.com/smplayer-dev/smplayer>
 Become a sponsor: <https://www.smplayer.info/en/contribute>  
 Translate: <https://explore.transifex.com/rvm/smplayer>  
 Report the bug: <https://github.com/smplayer-dev/smplayer/issues/new>  
-Download: <https://github.com/smplayer-dev/smplayer/releases/download/v24.5.0.10337/SMPlayer-24.5.0.10337-x86_64.AppImage>
+Download: <https://github.com/smplayer-dev/smplayer/releases/download/v24.5.0.10345/SMPlayer-24.5.0.10345-x86_64.AppImage>

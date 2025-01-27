@@ -14,9 +14,9 @@ Complete cross-platform Signal client
 
 License: GPL-3.0
 
-Source code: <https://github.com/nanu-c/axolotl>  
+Source code: <https://github.com/axolotl-chat/axolotl>  
 
 Become a sponsor: <https://patreon.com/nanuc>  
-Translate: <https://github.com/nanu-c/axolotl/blob/main/docs/TRANSLATE.md>  
+Translate: <https://github.com/axolotl-chat/axolotl/blob/main/docs/TRANSLATE.md>  
 Report the bug: <https://github.com/nanu-c/axolotl/issues/new>  
-Download: <https://github.com/nanu-c/axolotl/releases/download/v2.0.1/axolotl_2.0.1_amd64.AppImage>
+Download: <https://github.com/axolotl-chat/axolotl/releases/download/v2.0.1/axolotl_2.0.1_amd64.AppImage>
