@@ -1,11 +1,11 @@
 ---
 title: "Hiddify"
-summary: "Multi-user anti-filtering panel, with an effortless installation and supporting more than 20 protocols to circumvent filtering plus the telegram proxy."
+summary: "Cross Platform Multi Protocol Proxy Frontend."
 date: 2024-11-30T13:34:00Z
 categories: ["Network"]
 showAuthor: true
 authors:
-- "LibreWolf"
+- "Hiddify"
 tags: ["Official"]
 draft: false
 ---
