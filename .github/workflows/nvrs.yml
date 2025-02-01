@@ -1,0 +1,39 @@
+name: Build
+
+on:
+    workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+env:
+    APP_VERSION: ""
+    TAG_NAME: ""
+    BUILD_DIR: ./dist
+
+defaults:
+  run:
+    shell: bash
+
+jobs:
+    build:
+        runs-on: ubuntu-latest
+        env:
+            VERSION: 0.1.6
+        steps:
+        - name: get nvrs
+          run: cargo install nvrs --all-features
+        - name: run this awesome software  
+          run: nvrs
+        - name: conf output to md
+          run: newver.json > out.md
+
+        - name: Create Issue From File
+          uses: peter-evans/create-issue-from-file@v5
+          with:
+            title: nvrs Report
+            content-filepath: out.md
+            labels: versions, automated issue
+            

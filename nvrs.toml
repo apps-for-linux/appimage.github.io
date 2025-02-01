@@ -1,0 +1,137 @@
+# this is an example configuration file for nvrs
+# https://github.com/adamperkowski/nvrs
+
+[__config__]
+oldver = "oldver.json"
+newver = "newver.json"
+keyfile = "keyfile.toml"
+
+[86box]
+source = "github"
+github = "86Box/86Box"
+
+[acreom]
+source = "github"
+github = "Acreom/app"
+
+[actual]
+source = "github"
+github = "actualbudget/actual"
+
+[Advanced-PassGen]
+source = "github"
+github = "CodeDead/Advanced-PassGen"
+
+[AFFiNE]
+source = "github"
+github = "toeverything/AFFiNE"
+
+[aisap]
+source = "github"
+github = "mgord9518/aisap"
+use_max_tag = true
+
+[akuse]
+source = "github"
+github = "akuse-app/akuse"
+
+[alephium-frontend]
+source = "github"
+github = "alephium/alephium-frontend"
+
+[Alexandria]
+source = "github"
+github = "btpf/Alexandria"
+
+[altair]
+source = "github"
+github = "altair-graphql/altair"
+
+[amdgpu_top]
+source = "github"
+github = "Umio-Yasuno/amdgpu_top"
+prefix = "linux-akuse"
+
+[antares]
+source = "github"
+github = "antares-sql/antares"
+
+[AntiMicroX]
+source = "github"
+github = "AntiMicroX/antimicrox"
+
+[anytype]
+source = "github"
+github = "anyproto/anytype-ts"
+
+
+[netbeans]
+source = "github"
+github = "codelerity/netbeans-installers"
+
+[AppFlowy]
+source = "github"
+github = "AppFlowy-IO/AppFlowy"
+
+[appimagecraft]
+source = "github"
+github = "TheAssassin/appimagecraft"
+use_max_tag = true
+
+[aptakube]
+source = "github"
+github = "aptakube/aptakube"
+
+[Archipelago]
+source = "github"
+github = "ArchipelagoMW/Archipelago"
+
+[audacity]
+source = "github"
+github = "audacity/audacity"
+prefix = "audacity-linux"
+
+[authme]
+source = "github"
+github = "Levminer/authme"
+
+[avidemux]
+source = "github"
+github = "mean00/avidemux2"
+
+[avogadrolibs]
+source = "github"
+github = "OpenChemistry/avogadrolibs"
+
+[axolotl]
+source = "github"
+github = "axolotl-chat/axolotl"
+
+[BambuStudio]
+source = "github"
+github = "bambulab/BambuStudio"
+
+[Beaver-Notes]
+source = "github"
+github = "Beaver-Notes/Beaver-Notes"
+
+[beekeeper-studio]
+source = "github"
+github = "beekeeper-studio/beekeeper-studio"
+
+[BYAR-Chobby]
+source = "github"
+github = "beyond-all-reason/BYAR-Chobby"
+
+[Bforartists]
+source = "github"
+github = "Bforartists/Bforartists"
+
+[bitwarden]
+source = "github"
+github = "bitwarden/clients"
+
+[blockbench]
+source = "github"
+github = "JannisX11/blockbench"
+
