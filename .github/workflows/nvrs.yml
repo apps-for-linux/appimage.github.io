@@ -1,4 +1,4 @@
-name: Build
+name: Release Version Checker
 
 on:
     workflow_dispatch:
