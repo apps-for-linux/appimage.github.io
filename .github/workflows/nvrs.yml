@@ -11,7 +11,7 @@ permissions:
 env:
     APP_VERSION: ""
     TAG_NAME: ""
-    BUILD_DIR: ./dist
+    BUILD_DIR: ./nvrs
 
 defaults:
   run:
@@ -26,7 +26,7 @@ jobs:
         - name: get nvrs
           run: cargo install nvrs --all-features
         - name: run this awesome software  
-          run: nvrs
+          run: nvrs --config ./nvrs
         - name: conf output to md
           run: newver.json > out.md
 
@@ -34,6 +34,6 @@ jobs:
           uses: peter-evans/create-issue-from-file@v5
           with:
             title: nvrs Report
-            content-filepath: out.md
+            content-filepath: ./nvrs/out.md
             labels: versions, automated issue
             
