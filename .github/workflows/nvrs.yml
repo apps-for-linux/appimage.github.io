@@ -8,11 +8,6 @@ permissions:
   pages: write
   id-token: write
 
-env:
-    APP_VERSION: ""
-    TAG_NAME: ""
-    BUILD_DIR: ./nvrs
-
 defaults:
   run:
     shell: bash
@@ -26,7 +21,7 @@ jobs:
         - name: get nvrs
           run: cargo install nvrs --all-features
         - name: run this awesome software  
-          run: nvrs --config ./nvrs
+          run: nvrs --config ${{ runner.temp }}/nvrs
         - name: conf output to md
           run: newver.json > out.md
 
@@ -34,6 +29,6 @@ jobs:
           uses: peter-evans/create-issue-from-file@v5
           with:
             title: nvrs Report
-            content-filepath: ./nvrs/out.md
+            content-filepath: ${{ runner.temp }}/out.md
             labels: versions, automated issue
             
