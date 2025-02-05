@@ -1,7 +1,7 @@
 ---
 title: "Cryptomator"
 summary: "Multi-platform transparent client-side encryption of your files in the cloud"
-date: 2025-01-22T15:09:00Z
+date: 2025-02-03T13:53:00Z
 categories: ["Productivity"]
 showAuthor: true
 authors:
@@ -20,5 +20,5 @@ Source code: <https://github.com/cryptomator/cryptomator>
 Become a sponsor: <https://github.com/sponsors/cryptomator>  
 Translate: <https://translate.cryptomator.org>  
 Report the bug: <https://github.com/cryptomator/cryptomator/issues/new>  
-Download:   x86_64: <https://github.com/cryptomator/cryptomator/releases/download/1.15.0-beta1/cryptomator-1.15.0-beta1-x86_64.AppImage>  
-            arm64: <https://github.com/cryptomator/cryptomator/releases/download/1.15.0-beta1/cryptomator-1.15.0-beta1-aarch64.AppImage>
+Download:   x86_64: <https://github.com/cryptomator/cryptomator/releases/download/1.15.0/cryptomator-1.15.0-x86_64.AppImage>  
+            arm64: <https://github.com/cryptomator/cryptomator/releases/download/1.15.0/cryptomator-1.15.0-aarch64.AppImage>

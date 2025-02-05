@@ -1,7 +1,7 @@
 ---
 title: "Anytype"
 summary: "Anytype is a personal knowledge base"
-date: 2025-01-22T23:27:00Z
+date: 2025-02-03T03:08:00Z
 categories: ["Productivity"]
 showAuthor: true
 authors:
@@ -19,4 +19,4 @@ Source code: <https://github.com/anyproto/anytype-ts>
 
 Translate: <https://crowdin.com/project/anytype-desktop>  
 Report the bug: <https://github.com/anyproto/anytype-ts//issues/new>  
-Download: <https://github.com/anyproto/anytype-ts/releases/download/v0.44.11-alpha/Anytype-0.44.11-alpha.AppImage>
+Download: <https://github.com/anyproto/anytype-ts/releases/download/v0.44.17-alpha/Anytype-0.44.17-alpha.AppImage>
