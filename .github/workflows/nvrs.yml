@@ -9,7 +9,7 @@ permissions:
   id-token: write
 
 env:
-  BUILD_PATH: "."
+  working-directory: "."
 
 defaults:
   run:
@@ -20,18 +20,19 @@ jobs:
         runs-on: ubuntu-latest
         env:
             VERSION: 0.1.6
+            working-directory: .
         steps:
         - name: get nvrs
           run: cargo install nvrs --all-features
         - name: run this awesome software  
-          run: nvrs --config nvrs.toml
-        - name: conf output to md
-          run: newver.json > out.md
+          run: nvrs --config ${{ env.working-directory }}/nvrs.toml
+        - name: put json output to md
+          run: ${{ env.working-directory }}/newver.json > ${{ env.working-directory }}/out.md
 
         - name: Create Issue From File
           uses: peter-evans/create-issue-from-file@v5
           with:
             title: nvrs Report
-            content-filepath: /out.md
+            content-filepath: ${{ env.working-directory }}/out.md
             labels: versions, automated issue
             
