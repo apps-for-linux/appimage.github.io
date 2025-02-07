@@ -1,7 +1,7 @@
 ---
 title: "ToDesktop"
 description: "Web app to desktop app in minutes"
-date: 2024-12-04T00:00:00Z
+date: 2025-02-04T00:00:00Z
 categories: ["Network"]
 showAuthor: true
 authors:

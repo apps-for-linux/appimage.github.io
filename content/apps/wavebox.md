@@ -18,4 +18,4 @@ Web page: <https://wavebox.io>
 Source code: <https://github.com/wavebox/waveboxapp>
 
 Report the bug: <https://github.com/wavebox/issues/new>  
-Download: <https://download.wavebox.app/stable/linux/appimage/Wavebox_10.132.2-2_x86_64.AppImage>
+Download: <https://download.wavebox.app/stable/linux/appimage/Wavebox_10.133.3-2_x86_64.AppImage>
