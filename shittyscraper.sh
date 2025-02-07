@@ -7,7 +7,7 @@
 ### 5. export link
 ### 6. replace link
 
-cd $HOME/apps-for-linux.github.io/src/content/posts
+cd $HOME/apps-for-linux.github.io/src/content/apps
 
 repo=$( cat *.md | grep "Download" | cut -c 31- | sed -r 's/releases.+//' | sed '$ s/.$//' )
 
