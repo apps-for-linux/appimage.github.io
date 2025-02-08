@@ -10,7 +10,7 @@ tags: ["Official"]
 draft: false
 ---
 
-{{ $image := resources.Get "images/86box.png" }}
+{{< carousel images="{images/86.png}" >}}
 
 
 Emulator of x86-based machines based on PCem
