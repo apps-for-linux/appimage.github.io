@@ -10,7 +10,7 @@ tags: ["Official"]
 draft: false
 ---
 
-{{< carousel images="{images/86.png}" >}}
+{{< carousel images="{assets/images/86.png}" >}}
 
 
 Emulator of x86-based machines based on PCem
