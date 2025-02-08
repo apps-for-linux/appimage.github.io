@@ -18,4 +18,7 @@ Source code: <https://github.com/rivafarabi/deckboard>
 
 Become a sponsor: <https://ko-fi.com/rivafarabi>  
 Report the bug: <https://github.com/rivafarabi/deckboard/issues/new>  
-Download: <https://github.com/rivafarabi/deckboard/releases/download/v3.0.9/Deckboard-3.0.9.AppImage>
+
+{{< button href="https://github.com/rivafarabi/deckboard/releases/download/v3.0.9/Deckboard-3.0.9.AppImage" target="_blank">}}
+Download
+{{< /button >}}

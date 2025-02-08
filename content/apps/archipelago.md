@@ -18,3 +18,6 @@ Source code: <https://github.com/ArchipelagoMW/Archipelago>
 
 Report the bug: <https://github.com/ArchipelagoMW/Archipelago/issues/new>  
 Download: <https://github.com/ArchipelagoMW/Archipelago/releases/download/0.5.1/Archipelago_0.5.1.Hotfix1_linux-x86_64.AppImage>
+{{< button href="https://github.com/akuse-app/akuse/releases/download/1.9.0/linux-akuse-1.9.0.AppImage" target="_blank">}}
+Download
+{{< /button >}}

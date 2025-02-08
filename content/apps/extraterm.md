@@ -18,4 +18,7 @@ Web page: <https://extraterm.org>
 Source code: <https://github.com/sedwards2009/extraterm>
 
 Report the bug: <https://github.com/sedwards2009/extraterm/issues/new>  
-Download: <https://github.com/sedwards2009/extraterm/releases/download/v0.81.0/ExtratermQt-0.81.0.glibc2.34-x86_64.AppImage>
+
+{{< button href="https://github.com/sedwards2009/extraterm/releases/download/v0.81.0/ExtratermQt-0.81.0.glibc2.34-x86_64.AppImage" target="_blank">}}
+Download
+{{< /button >}}

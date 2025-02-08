@@ -17,4 +17,7 @@ License: GPL-3.0
 Source code: <https://gitlab.com/coolercontrol/coolercontrol>
 
 Report the bug: <https://gitlab.com/coolercontrol/coolercontrol/-/issues/new>  
-Download: <https://gitlab.com/coolercontrol/coolercontrol/-/releases/1.4.5/downloads/packages/CoolerControl-x86_64.AppImage>
+
+{{< button href="https://gitlab.com/coolercontrol/coolercontrol/-/releases/1.4.5/downloads/packages/CoolerControl-x86_64.AppImage" target="_blank">}}
+Download
+{{< /button >}}

@@ -1,7 +1,7 @@
 ---
 title: "GDLauncher"
 summary: "GDLauncher is a simple, yet powerful Minecraft custom launcher with a strong focus on the user experience"
-date: 2024-03-01T14:29:00Z
+date: 2025-01-23T11:01:00Z
 categories: ["Games"]
 authors:
 - "Gorilla Devs"
@@ -15,4 +15,4 @@ License: EULA
 
 Web page: <https://gdlauncher.com>
 
-Download: <https://cdn-raw.gdl.gg/launcher/GDLauncher__2.0.6__linux__x64.AppImage>
+Download: <https://cdn-raw.gdl.gg/launcher/GDLauncher__2.0.22__linux__x64.AppImage>

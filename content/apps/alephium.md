@@ -19,3 +19,6 @@ Source code: <https://github.com/alephium/alephium-frontend>
 Translate: <https://crowdin.com/project/alephium>  
 Report the bug: <https://github.com/alephium/alephium-frontend/issues/new>  
 Download: <https://github.com/alephium/alephium-frontend/releases/download/alephium-desktop-wallet%402.5.1/Alephium-2.5.1.AppImage>
+{{< button href="https://github.com/akuse-app/akuse/releases/download/1.9.0/linux-akuse-1.9.0.AppImage" target="_blank">}}
+Download
+{{< /button >}}

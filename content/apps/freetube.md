@@ -20,4 +20,7 @@ Source code: <https://github.com/FreeTubeApp/FreeTube>
 Become a sponsor: <https://liberapay.com/FreeTube>  
 Translate: <https://hosted.weblate.org/engage/free-tube>  
 Report the bug: <https://github.com/FreeTubeApp/FreeTube/issues/new>
-Download: <https://github.com/FreeTubeApp/FreeTube/releases/download/v0.22.0-beta/freetube_0.22.0_amd64.AppImage>
+
+{{< button href="https://github.com/FreeTubeApp/FreeTube/releases/download/v0.22.0-beta/freetube_0.22.0_amd64.AppImage" target="_blank">}}
+Download
+{{< /button >}}

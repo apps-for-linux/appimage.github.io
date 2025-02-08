@@ -18,4 +18,7 @@ Web page: <http://www.bforartists.de>
 Source code: <https://github.com/Bforartists/Bforartists>
 
 Report the bug: <https://github.com/Bforartists/Bforartists/issues/new>  
-Download: <https://github.com/Bforartists/Bforartists/releases/download/v4.3.1/Bforartists-4.3.1-x86_64.AppImage>
+
+{{< button href="https://github.com/Bforartists/Bforartists/releases/download/v4.3.1/Bforartists-4.3.1-x86_64.AppImage" target="_blank">}}
+Download
+{{< /button >}}

@@ -17,3 +17,7 @@ License: EULA
 Web: <https://www.beeper.com/>
 
 Download: <https://download.beeper.com/linux/appImage/x64>
+
+{{< button href="https://download.beeper.com/linux/appImage/x64" target="_blank">}}
+Download
+{{< /button >}}

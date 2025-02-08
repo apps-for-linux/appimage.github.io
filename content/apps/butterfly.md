@@ -1,7 +1,7 @@
 ---
 title: "Butterfly"
 summary: "Powerful, minimalistic, cross-platform, opensource note-taking app"
-date: 2024-12-02T11:45:00Z
+date: 2025-01-20T13:28:00Z
 categories: ["Productivity"]
 showAuthor: true
 authors:
@@ -19,4 +19,7 @@ Source code: <https://github.com/LinwoodDev/Butterfly>
 
 Translate: <https://translate.linwood.dev/butterfly>  
 Report the bug: <https://github.com/LinwoodDev/Butterfly/issues/new>  
-Download: <https://github.com/LinwoodDev/Butterfly/releases/download/v2.2.3-rc.0/linwood-butterfly-linux-x86_64.AppImage>
+
+{{< button href="https://github.com/LinwoodDev/Butterfly/releases/download/v2.3.0-beta.1/linwood-butterfly-linux-x86_64.AppImage" target="_blank">}}
+Download
+{{< /button >}}

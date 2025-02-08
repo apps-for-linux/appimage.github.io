@@ -1,7 +1,7 @@
 ---
 title: "Cemu"
 summary: "Nintendo Wii U emulator"
-date: 2024-11-13T10:07:00Z
+date: 2025-02-06T16:18:00Z
 categories: ["Games"]
 authors:
 - "Cemu Project"
@@ -17,4 +17,7 @@ Web page: <https://cemu.info/>
 Source code: <https://github.com/cemu-project/Cemu>
 
 Report the bug: <https://github.com/cemu-project/Cemu/issues/new>  
-Download: <https://github.com/cemu-project/Cemu/releases/download/v2.4/Cemu-2.4-x86_64.AppImage>
+
+{{< button href="https://github.com/cemu-project/Cemu/releases/download/v2.6/Cemu-2.6-x86_64.AppImage" target="_blank">}}
+Download
+{{< /button >}}

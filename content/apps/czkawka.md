@@ -19,4 +19,7 @@ Source code: <https://github.com/qarmin/czkawka>
 Become a sponsor: <https://github.com/sponsors/qarmin>  
 Translate: <https://crowdin.com/project/czkawka>  
 Report the bug: <https://github.com/qarmin/czkawka/issues/new>  
-Download: <https://github.com/qarmin/czkawka/releases/download/8.0.0/linux_czkawka_gui.AppImage>
+
+{{< button href="https://github.com/qarmin/czkawka/releases/download/8.0.0/linux_czkawka_gui.AppImage" target="_blank">}}
+Download
+{{< /button >}}

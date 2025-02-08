@@ -20,3 +20,6 @@ Source code: <https://github.com/codelerity/netbeans-installers>
 Become a sponsor: <https://github.com/sponsors/neilcsmith-net>  
 Report the bug: <https://github.com/codelerity/netbeans-installers/issues/new>  
 Download: <https://github.com/codelerity/netbeans-installers/releases/download/v24-build1/Apache_NetBeans-24-x86_64.AppImage>
+{{< button href="https://github.com/akuse-app/akuse/releases/download/1.9.0/linux-akuse-1.9.0.AppImage" target="_blank">}}
+Download
+{{< /button >}}

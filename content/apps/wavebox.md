@@ -1,7 +1,7 @@
 ---
 title: "Wavebox"
 summary: "Connect all the apps and websites you need to run your business and stay signed-in to every account"
-date: 2024-01-23T12:48:00Z
+date: 2025-02-06T11:36:00Z
 categories: ["Network"]
 showAuthor: true
 authors:

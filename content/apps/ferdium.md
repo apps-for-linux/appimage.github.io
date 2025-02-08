@@ -18,4 +18,7 @@ Web page: <https://ferdium.org>
 Source code: <https://github.com/ferdium/ferdium-app>
 
 Report the bug: <https://github.com/ferdium/ferdium-app/issues/new>  
-Download: <https://github.com/ferdium/ferdium-app/releases/download/v7.0.0/Ferdium-linux-Portable-7.0.0-x86_64.AppImage>
+
+{{< button href="https://github.com/ferdium/ferdium-app/releases/download/v7.0.0/Ferdium-linux-Portable-7.0.0-x86_64.AppImage" target="_blank">}}
+Download
+{{< /button >}}

@@ -20,4 +20,7 @@ Source code: <https://github.com/Ultimaker/Cura>
 Become a sponsor: <https://github.com/sponsors/Ultimaker>  
 Translate: <https://github.com/Ultimaker/Cura/wiki/Translating-Cura>  
 Report the bug: <https://github.com/Ultimaker/Cura/issues/new>  
-Download: <https://github.com/Ultimaker/Cura/releases/download/5.9.0/UltiMaker-Cura-5.9.0-linux-X64.AppImage>
+
+{{< button href="https://github.com/Ultimaker/Cura/releases/download/5.10.0-alpha.0/UltiMaker-Cura-5.10.0-alpha.0-linux-X64.AppImage" target="_blank">}}
+Download
+{{< /button >}}

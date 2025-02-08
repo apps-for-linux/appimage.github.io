@@ -20,3 +20,7 @@ Source code: <https://git.cinelerra-gg.org/git>
 Translate: <https://www.cinelerra-gg.org/translate-app>  
 Report the bug: <https://www.cinelerra-gg.org/bugtracker/login_page.php>  
 Download: <https://cinelerra-gg.org/download/images/CinGG-20241031-x86_64.AppImage>
+
+{{< button href="https://github.com/akuse-app/akuse/releases/download/1.9.0/linux-akuse-1.9.0.AppImage" target="_blank">}}
+Download
+{{< /button >}}

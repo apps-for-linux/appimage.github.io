@@ -19,4 +19,7 @@ Source code: <https://github.com/JannisX11/blockbench>
 
 Translate: <https://blockbench.net/translations>  
 Report the bug: <https://github.com/JannisX11/blockbench/issues/new>  
-Download: <https://github.com/JannisX11/blockbench/releases/download/v4.12.1/Blockbench_4.12.1.AppImage>
+
+{{< button href="https://github.com/JannisX11/blockbench/releases/download/v4.12.1/Blockbench_4.12.1.AppImage" target="_blank">}}
+Download
+{{< /button >}}

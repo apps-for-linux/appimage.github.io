@@ -18,4 +18,6 @@ Web page: <https://acreom.com>
 Source code: <https://github.com/Acreom/app>
 
 Report the bug: <https://github.com/Acreom/app/issues>  
-Download: <https://github.com/Acreom/app/releases/download/v1.20.4/acreom-1.20.4.AppImage>
+{{< button href="https://github.com/Acreom/app/releases/download/v1.20.4/acreom-1.20.4.AppImage" target="_blank">}}
+Download
+{{< /button >}}

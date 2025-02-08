@@ -18,4 +18,7 @@ License: GPL-3.0
 Source code: <https://github.com/gamingdoom/datcord>
 
 Report the bug: <https://github.com/gamingdoom/datcord/issues/new>  
-Download: <https://github.com/gamingdoom/datcord/releases/download/0.5.2/Datcord-x86_64.AppImage>
+
+{{< button href="https://github.com/gamingdoom/datcord/releases/download/0.5.2/Datcord-x86_64.AppImage" target="_blank">}}
+Download
+{{< /button >}}

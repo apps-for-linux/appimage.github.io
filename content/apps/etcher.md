@@ -18,4 +18,7 @@ Web page: <https://etcher.balena.io>
 Source code: <https://github.com/balena-io/etcher>
 
 Translate: <https://github.com/balena-io/etcher/tree/master/lib/gui/app/i18n>    
-Download: <https://github.com/balena-io/etcher/releases/download/v1.19.25/balenaEtcher-1.19.25-x64.AppImage>
+
+{{< button href="https://github.com/balena-io/etcher/releases/download/v1.19.25/balenaEtcher-1.19.25-x64.AppImage" target="_blank">}}
+Download
+{{< /button >}}

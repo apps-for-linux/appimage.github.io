@@ -21,3 +21,7 @@ Become a sponsor: <https://opencollective.com/open-chemistry>
 Translate: <https://hosted.weblate.org/engage/avogadro>  
 Report the bug: <https://github.com/openchemistry/avogadrolibs/issues/new>  
 Download: <https://github.com/OpenChemistry/avogadrolibs/releases/download/1.100.0/Avogadro2-x86_64.AppImage>
+
+{{< button href="https://github.com/akuse-app/akuse/releases/download/1.9.0/linux-akuse-1.9.0.AppImage" target="_blank">}}
+Download
+{{< /button >}}

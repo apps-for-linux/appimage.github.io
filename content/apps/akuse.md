@@ -18,4 +18,6 @@ Source code: <https://github.com/akuse-app/akuse>
 
 Become a sponsor: <https://github.com/sponsors/aleganza>  
 Report the bug: <https://github.com/akuse-app/akuse/issues/new>  
-Download: <https://github.com/akuse-app/akuse/releases/download/1.9.0/linux-akuse-1.9.0.AppImage>
+{{< button href="https://github.com/akuse-app/akuse/releases/download/1.9.0/linux-akuse-1.9.0.AppImage" target="_blank">}}
+Download
+{{< /button >}}

@@ -1,7 +1,7 @@
 ---
 title: "Bruno"
 summary: "Open-source IDE for exploring and testing APIs"
-date: 2025-01-07T15:23:00Z
+date: 2025-01-08T16:37:00Z
 categories: ["Development"]
 showAuthor: true
 authors:
@@ -19,4 +19,7 @@ Source code: <https://github.com/usebruno/bruno>
 
 Become a sponsor: <https://github.com/sponsors/helloanoop>  
 Report the bug: <https://github.com/usebruno/bruno/issues/new>  
-Download: <https://github.com/usebruno/bruno/releases/download/v1.38.0/bruno_1.38.0_x86_64_linux.AppImage>
+
+{{< button href="https://github.com/usebruno/bruno/releases/download/v1.38.1/bruno_1.38.1_x86_64_linux.AppImage" target="_blank">}}
+Download
+{{< /button >}}

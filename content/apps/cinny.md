@@ -19,4 +19,7 @@ Source code: <https://github.com/cinnyapp/cinny-desktop>
 
 Become a sponsor: <https://opencollective.com/cinny>  
 Report the bug: <https://github.com/cinnyapp/cinny-desktop/issues/new>  
-Download: <https://github.com/cinnyapp/cinny-desktop/releases/download/v4.2.3/Cinny_desktop-x86_64.AppImage>
+
+{{< button href="https://github.com/cinnyapp/cinny-desktop/releases/download/v4.2.3/Cinny_desktop-x86_64.AppImage" target="_blank">}}
+Download
+{{< /button >}}
