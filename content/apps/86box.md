@@ -10,6 +10,9 @@ tags: ["Official"]
 draft: false
 ---
 
+{{ $image := resources.Get "images/86box.png" }}
+
+
 Emulator of x86-based machines based on PCem
 
 License: GPL-2.0
