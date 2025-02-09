@@ -10,6 +10,8 @@ tags: ["Official"]
 draft: false
 ---
 
+{{< carousel images="{https://raw.githubusercontent.com/altair-graphql/altair/refs/heads/master/packages/altair-docs/public/assets/img/app-shot.png}" >}}
+
 A beautiful feature-rich GraphQL Client
 
 License: MIT

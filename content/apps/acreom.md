@@ -10,6 +10,8 @@ tags: ["Official"]
 draft: false
 ---
 
+{{< carousel images="{https://api-1.acreom.com/api/images/sharing/16269317-aefa-4ccc-823e-d47eec9a13a7/7bad3d05-5b46-4f2e-beeb-f97343ae4c70}" >}}
+
 Local-first open-source markdown knowledge base
 
 License: GPL-3.0

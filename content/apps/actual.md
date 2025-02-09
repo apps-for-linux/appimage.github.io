@@ -9,6 +9,8 @@ tags: ["Official"]
 draft: false
 ---
 
+{{< carousel images="{https://raw.githubusercontent.com/actualbudget/actual/refs/heads/master/demo.png}" >}}
+
 Actual Budget is a super fast and privacy-focused app for managing your finances.
 
 License: MIT

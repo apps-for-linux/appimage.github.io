@@ -10,6 +10,8 @@ tags: ["Official"]
 draft: false
 ---
 
+{{< carousel images="{https://raw.githubusercontent.com/akuse-app/akuse/refs/heads/react-port/assets/screenshot.jpg}" >}}
+
 Simple and easy to use anime streaming desktop app without ads.
 
 License: GPL-3.0
