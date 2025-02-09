@@ -10,6 +10,8 @@ tags: ["Official"]
 draft: false
 ---
 
+{{< carousel images="{https://github.com/user-attachments/assets/2656b5d3-cc09-468b-9950-2912dd17549a}" >}}
+
 A lightweight and user-focused web browser powered by Electron
 
 License: MIT

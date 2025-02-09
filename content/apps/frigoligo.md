@@ -1,7 +1,7 @@
 ---
 title: "Frigoligo"
 summary: "Frigoligo is a wallabag client crafted using Flutter"
-date: 2024-11-07T12:38:00Z
+date: 2025-02-09T19:01:00Z
 categories: ["Network"]
 showAuthor: true
 authors:
@@ -18,4 +18,5 @@ Source code: <https://github.com/casimir/frigoligo>
 
 Translate: <https://hosted.weblate.org/engage/frigoligo>  
 Report the bug: <https://github.com/casimir/frigoligo/issues/new>  
-Download: <https://github.com/casimir/frigoligo/releases/download/v2.0.0/Frigoligo-v2.0.0-x86_64.AppImage>
+Download:   x86_64: <https://github.com/casimir/frigoligo/releases/download/v2.3.0/Frigoligo-v2.3.0-x86_64.AppImage>
+            arm64: <https://github.com/casimir/frigoligo/releases/download/v2.3.0/Frigoligo-v2.3.0-aarch64.AppImage>

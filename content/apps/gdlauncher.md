@@ -15,4 +15,6 @@ License: EULA
 
 Web page: <https://gdlauncher.com>
 
-Download: <https://cdn-raw.gdl.gg/launcher/GDLauncher__2.0.22__linux__x64.AppImage>
+{{< button href="https://cdn-raw.gdl.gg/launcher/GDLauncher__2.0.22__linux__x64.AppImage" target="_blank">}}
+Download
+{{< /button >}}

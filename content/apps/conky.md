@@ -10,6 +10,8 @@ tags: ["Official"]
 draft: false
 ---
 
+{{< carousel images="{https://raw.githubusercontent.com/wiki/brndnmtthws/conky/configs/brenden/screenshot.png}" >}}
+
 Light-weight system monitor for X, Wayland, and other things, too
 
 License: GPL-3.0

@@ -19,4 +19,7 @@ Source code: <https://github.com/chrismaltby/gb-studio>
 
 Translate: <https://github.com/chrismaltby/gb-studio?tab=readme-ov-file#note-for-translators>  
 Report the bug: <https://github.com/chrismaltby/gb-studio/issues/new>  
-Download: <https://github.com/chrismaltby/gb-studio/releases/download/v4.1.3/gb-studio-linux.AppImage>
+
+{{< button href="https://github.com/chrismaltby/gb-studio/releases/download/v4.1.3/gb-studio-linux.AppImage" target="_blank">}}
+Download
+{{< /button >}}

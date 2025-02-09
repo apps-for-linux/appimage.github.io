@@ -18,4 +18,7 @@ Web page: <https://www.gams.com>
 Source code: <https://github.com/GAMS-dev/studio>
 
 Report the bug: <https://github.com/GAMS-dev/studio/issues/new>  
-Download: <https://github.com/GAMS-dev/studio/releases/download/v1.19.3/GAMS_Studio-1.19.3-x86_64.AppImage>
+
+{{< button href="https://github.com/GAMS-dev/studio/releases/download/v1.20.0/GAMS_Studio-1.20.0-x86_64.AppImage" target="_blank">}}
+Download
+{{< /button >}}

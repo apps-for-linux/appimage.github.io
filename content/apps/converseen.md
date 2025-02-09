@@ -10,6 +10,8 @@ tags: ["Official"]
 draft: false
 ---
 
+{{< carousel images="{https://converseen.fasterland.net/images/appstream/converseen-appdata-kde6_1.png}" >}}
+
 Converseen is a batch image converter and resizer
 
 License: GPL-3.0

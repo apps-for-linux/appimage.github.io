@@ -9,6 +9,8 @@ tags: ["Official"]
 draft: false
 ---
 
+{{< carousel images="{https://raw.githubusercontent.com/streetpea/chiaki-ng/refs/heads/main/assets/screenshot.png}" >}}
+
 Open-source remote play client for PlayStation
 
 License: AGPL-3.0

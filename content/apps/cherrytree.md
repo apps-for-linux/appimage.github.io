@@ -10,6 +10,8 @@ tags: ["Official"]
 draft: false
 ---
 
+{{< carousel images="{https://raw.githubusercontent.com/giuspen/cherrytree/refs/heads/master/docs/cherrytree-main_window_text.png}" >}}
+
 A hierarchical note taking application, featuring rich text and syntax highlighting
 
 License: GPL-3.0

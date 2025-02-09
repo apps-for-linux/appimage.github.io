@@ -18,4 +18,7 @@ Web page: <https://friction.graphics>
 Source code: <https://github.com/friction2d/friction>
 
 Report the bug: <https://github.com/friction2d/friction/issues/new>  
-Download: <https://github.com/friction2d/friction/releases/download/v1.0.0-beta.2/Friction-1.0.0-beta.2-x86_64.AppImage>
+
+{{< button href="https://github.com/friction2d/friction/releases/download/v1.0.0-beta.2/Friction-1.0.0-beta.2-x86_64.AppImage" target="_blank">}}
+Download
+{{< /button >}}

@@ -10,6 +10,8 @@ tags: ["Official"]
 draft: false
 ---
 
+{{< carousel images="{https://raw.githubusercontent.com/cardo-podcast/cardo/refs/heads/master/assets/readme/1.png}" >}}
+
 Cardo is a podcast client for desktop
 
 License: GPL-3.0 

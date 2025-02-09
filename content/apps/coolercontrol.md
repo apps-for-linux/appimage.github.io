@@ -10,6 +10,8 @@ tags: ["Official"]
 draft: false
 ---
 
+{{< carousel images="{https://gitlab.com/coolercontrol/coolercontrol/-/raw/main/screenshots/coolercontrol-overview.png?ref_type=heads}" >}}
+
 Monitor and control your cooling and other devices
 
 License: GPL-3.0

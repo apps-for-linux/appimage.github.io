@@ -10,6 +10,8 @@ tags: ["Official"]
 draft: false
 ---
 
+{{< carousel images="{https://raw.githubusercontent.com/sindresorhus/caprine/refs/heads/main/media/screenshot.png}" >}}
+
 Caprine is an unofficial and privacy-focused Facebook Messenger app with many useful features
 
 License: MIT

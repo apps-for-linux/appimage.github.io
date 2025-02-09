@@ -18,4 +18,7 @@ Web page: <https://www.giadamusic.com>
 Source code: <https://github.com/monocasual/giada>
 
 Report the bug: <https://github.com/monocasual/giada/issues/new>
-Download: <https://www.giadamusic.com/data/Giada-1.1.0-x86_64.AppImage>
+
+{{< button href="https://www.giadamusic.com/data/Giada-1.1.1-x86_64.AppImage" target="_blank">}}
+Download
+{{< /button >}}
