@@ -20,7 +20,7 @@ Source code: <https://github.com/arduino/arduino-ide>
 Become a sponsor: <https://www.arduino.cc/en/donate>  
 Translate: <https://explore.transifex.com/arduino-1/ide2>  
 Report the bug: <https://github.com/arduino/arduino-ide/issues/new>  
-Download: <https://github.com/arduino/arduino-ide/releases/download/2.3.4/arduino-ide_2.3.4_Linux_64bit.AppImage>
-{{< button href="https://github.com/akuse-app/akuse/releases/download/1.9.0/linux-akuse-1.9.0.AppImage" target="_blank">}}
+
+{{< button href="https://github.com/arduino/arduino-ide/releases/download/2.3.4/arduino-ide_2.3.4_Linux_64bit.AppImage" target="_blank">}}
 Download
 {{< /button >}}

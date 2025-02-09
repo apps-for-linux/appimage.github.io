@@ -20,7 +20,7 @@ Source code: <https://github.com/Levminer/authme>
 Become a sponsor: <https://paypal.me/levminer>  
 Translate: <https://github.com/Levminer/authme/issues/258#issuecomment-1909792332>  
 Report the bug: <https://github.com/Levminer/authme/issues/new>    
-Download: <https://github.com/Levminer/authme/releases/download/6.0.2/authme-6.0.2-linux-x64.appimage>
-{{< button href="https://github.com/akuse-app/akuse/releases/download/1.9.0/linux-akuse-1.9.0.AppImage" target="_blank">}}
+
+{{< button href="https://github.com/Levminer/authme/releases/download/6.0.2/authme-6.0.2-linux-x64.appimage" target="_blank">}}
 Download
 {{< /button >}}

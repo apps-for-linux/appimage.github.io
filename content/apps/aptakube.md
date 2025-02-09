@@ -18,7 +18,7 @@ License: EULA
 Web page: <https://aptakube.com>
 
 Report the bug: <https://github.com/aptakube/aptakube/issues>  
-Download: <https://github.com/aptakube/aptakube/releases/download/1.10.4/aptakube_1.10.4_amd64.AppImage>
+
 {{< button href="https://github.com/akuse-app/akuse/releases/download/1.9.0/linux-akuse-1.9.0.AppImage" target="_blank">}}
 Download
 {{< /button >}}
