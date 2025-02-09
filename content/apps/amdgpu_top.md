@@ -10,7 +10,7 @@ tags: ["Official"]
 draft: false
 ---
 
-{{< carousel images="{https://github.com/Umio-Yasuno/amdgpu_top/assets/53935716/66c3fb7e-cb23-4a19-ab10-2bb9919a1a8a https://github.com/Umio-Yasuno/amdgpu_top/assets/53935716/859010d8-07b3-411c-b079-c4a837855d41 https://github.com/Umio-Yasuno/amdgpu_top/assets/53935716/e3ff372e-86f9-4b82-b3c9-910b638a3c90}" >}}
+{{< carousel images="{https://github.com/Umio-Yasuno/amdgpu_top/assets/53935716/e3ff372e-86f9-4b82-b3c9-910b638a3c90}" >}}
 
 
 amdgpu_top is tool that display AMD GPU utilization
