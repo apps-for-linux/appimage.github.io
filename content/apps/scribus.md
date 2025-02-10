@@ -1,7 +1,7 @@
 ---
 title: "Scribus"
 summary: "Powerful desktop publishing software"
-date: 2025-01-09T01:57:00Z
+date: 2025-02-09T02:57:00Z
 categories: ["Productivity"]
 showAuthor: true
 authors:
@@ -9,6 +9,8 @@ authors:
 tags: ["Official"]
 draft: false
 ---
+
+{{< carousel images="{https://a.fsdn.com/con/app/proj/scribus/screenshots/Scribus_170_dark-theme-da248d2a.png/max/max/1}" >}}
 
 Powerful desktop publishing software
 
@@ -19,4 +21,7 @@ Source code: <https://github.com/scribusproject/scribus>
 
 Translate: <https://explore.transifex.com/scribus/scribus>  
 Report the bug: <http://bugs.scribus.net>  
-Download: <https://sourceforge.net/projects/scribus/files/scribus/1.6.3/scribus-1.6.3-linux-x86_64.AppImage/>
+
+{{< button href="Download: <https://sourceforge.net/projects/scribus/files/scribus-devel/1.7.0/scribus-1.7.0-linux-x86_64.AppImage/>" target="_blank">}}
+Download
+{{< /button >}}
