@@ -9,6 +9,8 @@ tags: ["Official"]
 draft: false
 ---
 
+{{< carousel images="{https://heroicgameslauncher.com/_next/static/images/heroic_01-766acd921e989be3aec2af1174d69dea.webp}" >}}
+
 A Native GOG, Amazon and Epic Games Launcher
 
 License: GPL-3.0
@@ -19,4 +21,7 @@ Source code: <https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher>
 Become a sponsor: <https://patreon.com/heroicgameslauncher>  
 Translate: <https://hosted.weblate.org/projects/heroic-games-launcher>  
 Report the bug: <https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher/issues/new>  
-Download: <https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher/releases/download/v2.15.2/Heroic-2.15.2.AppImage>
+
+{{< button href="https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher/releases/download/v2.15.2/Heroic-2.15.2.AppImage" target="_blank">}}
+Download
+{{< /button >}}

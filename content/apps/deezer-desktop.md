@@ -10,6 +10,8 @@ tags: ["Official"]
 draft: false
 ---
 
+{{< carousel images="{https://raw.githubusercontent.com/flathub/dev.aunetx.deezer/master/screenshots/screenshot_dark.png}" >}}
+
 An universal linux port of deezer, supporting Flatpak, Appimage, Snap, RPM, DEB.
 
 License: MIT

@@ -10,6 +10,8 @@ tags: ["Official"]
 draft: false
 ---
 
+{{< carousel images="{https://raw.githubusercontent.com/FreeCAD/FreeCAD/refs/heads/main/.github/images/partdesign.png}" >}}
+
 FreeCAD is a general purpose Open Source 3D CAD/MCAD/CAx/CAE/PLM modeler
 
 License: GPL-2.0

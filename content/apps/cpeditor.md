@@ -10,6 +10,8 @@ tags: ["Official"]
 draft: false
 ---
 
+{{< carousel images="{https://raw.githubusercontent.com/cpeditor/cpeditor/refs/heads/master/assets/demo.gif}" >}}
+
 The IDE for competitive programming
 
 License: GPL-3.0

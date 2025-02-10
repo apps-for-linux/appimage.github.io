@@ -9,6 +9,8 @@ tags: ["Official"]
 draft: false
 ---
 
+{{< carousel images="{https://github.com/rivafarabi/deckboard/blob/master/01.PNG}" >}}
+
 Control your PC with your phone in easy way possible
 
 License: AGPL-3.0

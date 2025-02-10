@@ -10,6 +10,8 @@ tags: ["Official"]
 draft: false
 ---
 
+{{< carousel images="{https://filen.io/_next/image?url=%2Findex_hero.png&w=1920&q=100}" >}}
+
 Desktop client for filen.io
 
 License: AGPL-3.0

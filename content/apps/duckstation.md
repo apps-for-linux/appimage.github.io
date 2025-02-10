@@ -9,6 +9,8 @@ tags: ["Official"]
 draft: false
 ---
 
+{{< carousel images="{https://raw.githubusercontent.com/stenzek/duckstation/md-images/main-qt.png}" >}}
+
 Fast PlayStation 1 emulator for x86-64/AArch32/AArch64/RV64
 
 License: GPL-3.0

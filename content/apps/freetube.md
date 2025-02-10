@@ -10,6 +10,8 @@ tags: ["Official"]
 draft: false
 ---
 
+{{< carousel images="{https://i.imgur.com/zFgZUUV.png}" >}}
+
 FreeTube is an open source desktop YouTube player built with privacy in mind
 
 License: AGPL-3.0

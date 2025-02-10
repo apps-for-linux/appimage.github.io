@@ -10,6 +10,8 @@ tags: ["Official"]
 draft: false
 ---
 
+{{< carousel images="{https://glaxnimate.org/images/screenshots/main_window/main_window.png}" >}}
+
 Simple vector animation program.
 
 License: GPL-3.0

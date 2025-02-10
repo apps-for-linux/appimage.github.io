@@ -10,6 +10,8 @@ tags: ["Official"]
 draft: false
 ---
 
+{{< carousel images="{https://friction.graphics/assets/screenshots/100/friction-100b2-screenshot.png?}" >}}
+
 Powerful and versatile free and open-source motion graphics application
 
 License: GPL-3.0

@@ -10,6 +10,8 @@ tags: ["Official"]
 draft: false
 ---
 
+{{< carousel images="{https://raw.githubusercontent.com/deltachat/deltachat-desktop/refs/heads/main/README_ASSETS/desktop.png}" >}}
+
 Flash OS images to SD cards & USB drives, safely and easily
 
 License: Apache-2.0

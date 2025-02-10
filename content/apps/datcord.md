@@ -11,7 +11,6 @@ draft: false
 ---
 
 An open-source Discord client using Firefox
-Use at Your Own Risk!!!
 
 License: GPL-3.0
 

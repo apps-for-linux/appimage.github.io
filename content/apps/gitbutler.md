@@ -10,6 +10,8 @@ tags: ["Official"]
 draft: false
 ---
 
+{{< carousel images="{https://github.com/gitbutlerapp/gitbutler/assets/16262535/0d180bfd-7a3c-4a66-a923-30534c5a8197}" >}}
+
 The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte
 
 License: FSL-1.0-MIT

@@ -1,7 +1,7 @@
 ---
 title: "Hiddify"
 summary: "Cross Platform Multi Protocol Proxy Frontend."
-date: 2024-11-30T13:34:00Z
+date: 2024-10-04T02:09:00Z
 categories: ["Network"]
 showAuthor: true
 authors:
@@ -20,4 +20,7 @@ Source code: <https://github.com/hiddify/hiddify-app>
 Become a sponsor: <https://hiddify.com/donation-and-support/>  
 Translate: <https://inlang.com/editor/github.com/hiddify/hiddify-next>  
 Report the bug: <https://github.com/hiddify/hiddify-app/issues>  
-Download: <https://github.com/hiddify/hiddify-app/releases/latest/download/Hiddify-Linux-x64.AppImage>
+
+{{< button href="https://github.com/hiddify/hiddify-next/releases/download/v2.5.7/Hiddify-Linux-x64.AppImage" target="_blank">}}
+Download
+{{< /button >}}

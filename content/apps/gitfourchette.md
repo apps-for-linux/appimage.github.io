@@ -10,6 +10,8 @@ tags: ["Official"]
 draft: false
 ---
 
+{{< carousel images="{https://gitfourchette.org/_static/appstream/packshot-shadow-light.png}" >}}
+
 The comfortable Git UI for Linux.
 
 License: GPL-3.0

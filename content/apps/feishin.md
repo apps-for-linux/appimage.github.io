@@ -10,6 +10,8 @@ tags: ["Official"]
 draft: false
 ---
 
+{{< carousel images="{https://raw.githubusercontent.com/jeffvli/feishin/development/media/preview_full_screen_player.png}" >}}
+
 A modern self-hosted music player.
 
 License: GPL-3.0

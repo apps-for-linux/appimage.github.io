@@ -10,6 +10,8 @@ tags: ["Official"]
 draft: false
 ---
 
+{{< carousel images="{https://freac.org/images/freac-linux.png}" >}}
+
 Free and open source audio converter
 
 License: GPL-2.0

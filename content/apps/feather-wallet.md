@@ -9,6 +9,8 @@ tags: ["Official"]
 draft: false
 ---
 
+{{< carousel images="{https://featherwallet.org/img/home_monero_light.png}" >}}
+
 A free and open-source Monero desktop wallet.
 
 License: BSD-3-Clause

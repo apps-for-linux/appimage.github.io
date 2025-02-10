@@ -10,6 +10,8 @@ tags: ["Official"]
 draft: false
 ---
 
+{{< carousel images="{https://giadamusic.com/images/giada-canvas.png}" >}}
+
 Open source, minimalistic and hardcore music production tool
 
 License: GPL-3.0
